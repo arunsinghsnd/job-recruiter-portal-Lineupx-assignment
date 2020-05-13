@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 0;
+  margin-top: 0px;
+ 
+
+}
+
+.card {
+  margin: 0 2%  !important;
+}
+
+.Button{
+  margin: 0 18%  !important;
+}
+.menber{
+   margin: 0 18%  !important;
+}
+
+@media only screen and (max-width: 770px) {
+  .card {
+    margin: 4% 0 !important;
+  }
+}
+
