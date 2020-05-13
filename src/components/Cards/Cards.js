@@ -27,7 +27,7 @@ const Cards = () =>{
                 <ImageTwoToneIcon   fontSize="large"/>
               </Badge>
             </IconButton><br/><b>Full Stack Web Developemnt,</b><br/>
-             LineUpx , Developement, <br/> Mumbai<hr/>
+             LineUPx , Developement, <br/> Mumbai<hr/>
 
            <IconButton aria-label="" color="inherit">
               <Badge  color="secondary" className={cx(styles.menber,)}>
