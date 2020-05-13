@@ -55,7 +55,7 @@ const Cards = () =>{
               </IconButton>
               <IconButton aria-label="" color="inherit">
               <Badge  color="secondary" >
-                <AttachMoneyIcon  fontSize="large"/>6-7 lakhs 
+                <AttachMoneyIcon  fontSize="large"/>5-9 lakhs 
               </Badge>
             </IconButton>
 
@@ -107,7 +107,7 @@ const Cards = () =>{
               </IconButton>
               <IconButton aria-label="" color="inherit">
               <Badge  color="secondary" >
-                <AttachMoneyIcon  fontSize="large"/>6-7 lakhs 
+                <AttachMoneyIcon  fontSize="large"/>4-5 lakhs 
               </Badge>
             </IconButton>
 
@@ -160,7 +160,7 @@ const Cards = () =>{
               </IconButton>
               <IconButton aria-label="" color="inherit">
               <Badge  color="secondary" >
-                <AttachMoneyIcon  fontSize="large"/>6-7 lakhs 
+                <AttachMoneyIcon  fontSize="large"/>10-12 lakhs 
               </Badge>
             </IconButton>
 
